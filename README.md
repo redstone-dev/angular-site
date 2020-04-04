@@ -1,3 +1,2 @@
 # angular-gp78tn
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-gp78tn)
+I created this on StackBlitz just because it's the best IDE ever.
